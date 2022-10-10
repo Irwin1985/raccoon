@@ -4,7 +4,7 @@
 
 Examples:
 
-```xBase
+```Javascript
 // First we need to create a connection object
 CREATE CONNECTION loCon
 
