@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="RaccoonProject.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="23" Y="13"/>
+        <UsageCount Value="117"/>
+      </Unit>
+      <Unit>
+        <Filename Value="raccooneditor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="RaccoonEditor"/>
+        <TopLine Value="7"/>
+        <CursorPos X="58" Y="8"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utoken.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uToken"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="275"/>
+        <CursorPos X="36" Y="282"/>
+        <UsageCount Value="115"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uscanner.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uScanner"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="59"/>
+        <CursorPos X="23" Y="75"/>
+        <UsageCount Value="107"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ustatement.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uStatement"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="79"/>
+        <CursorPos X="15" Y="80"/>
+        <UsageCount Value="95"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uexpression.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uExpression"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="35" Y="11"/>
+        <UsageCount Value="94"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uparser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uParser"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="128"/>
+        <CursorPos Y="142"/>
+        <UsageCount Value="93"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uinterpreter.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uInterpreter"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="386"/>
+        <CursorPos Y="401"/>
+        <UsageCount Value="88"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uraccoon.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uRaccoon"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="30" Y="71"/>
+        <UsageCount Value="86"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uobject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uObject"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="21" Y="29"/>
+        <UsageCount Value="84"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uast.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uAst"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="305"/>
+        <CursorPos Y="321"/>
+        <UsageCount Value="81"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uvisitor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uVisitor"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="11"/>
+        <UsageCount Value="81"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ubinaryhelper.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uBinaryHelper"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="3" Y="21"/>
+        <UsageCount Value="59"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uerror.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uError"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="33"/>
+        <CursorPos X="13" Y="50"/>
+        <UsageCount Value="59"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uenvironment.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uEnvironment"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="65"/>
+        <CursorPos Y="87"/>
+        <UsageCount Value="48"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\regexpr\src\regex.pp"/>
+        <UnitName Value="Regex"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="172"/>
+        <CursorPos X="15" Y="111"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\regexpr\src\oldregexpr.pp"/>
+        <UnitName Value="OldRegExpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\regexpr\src\uregexpr.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="713"/>
+        <CursorPos X="11" Y="725"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\synedit\synedit.pp"/>
+        <UnitName Value="SynEdit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2883"/>
+        <CursorPos Y="2899"/>
+        <UsageCount Value="1"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\variants.pp"/>
+        <UnitName Value="Variants"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="72"/>
+        <CursorPos X="10" Y="86"/>
+        <UsageCount Value="19"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="199"/>
+        <CursorPos X="22" Y="208"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="103"/>
+        <CursorPos X="10" Y="117"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-generics\src\generics.collections.pas"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="1425"/>
+        <CursorPos Y="1443"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysunih.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="21"/>
+        <UsageCount Value="2"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="316"/>
+        <CursorPos X="13" Y="330"/>
+        <UsageCount Value="4"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1604"/>
+        <CursorPos Y="1619"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\toolbutton.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="171"/>
+        <CursorPos Y="184"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\messagedialogs.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="193"/>
+        <CursorPos Y="209"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5417"/>
+        <CursorPos Y="5430"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\lclmessageglue.pas"/>
+        <UnitName Value="LCLMessageGlue"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="92"/>
+        <CursorPos Y="105"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\varianth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="54"/>
+        <CursorPos X="4" Y="68"/>
+        <UsageCount Value="19"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\syswinh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="2" Y="17"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\syshelph.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="14" Y="181"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="802"/>
+        <CursorPos X="3" Y="816"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="436"/>
+        <CursorPos Y="458"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32callback.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2566"/>
+        <CursorPos Y="2579"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="420" TopLine="404"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="421" TopLine="404"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="422" TopLine="404"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="423" TopLine="404"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="561" TopLine="547"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="562" TopLine="547"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="563" TopLine="547"/>
+      </Position>
+      <Position>
+        <Filename Value="uast.pas"/>
+        <Caret Line="491" TopLine="477"/>
+      </Position>
+      <Position>
+        <Filename Value="uast.pas"/>
+        <Caret Line="492" TopLine="477"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="395" TopLine="381"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="396" TopLine="381"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="397" TopLine="381"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="398" TopLine="381"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="573" TopLine="559"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="574" TopLine="559"/>
+      </Position>
+      <Position>
+        <Filename Value="uast.pas"/>
+        <Caret Line="319" TopLine="305"/>
+      </Position>
+      <Position>
+        <Filename Value="uast.pas"/>
+        <Caret Line="320" TopLine="305"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="335" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="336" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="337" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="338" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="339" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="342" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="335" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="344" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="uast.pas"/>
+        <Caret Line="321" TopLine="305"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="575" TopLine="561"/>
+      </Position>
+      <Position>
+        <Filename Value="uinterpreter.pas"/>
+        <Caret Line="400" TopLine="386"/>
+      </Position>
+      <Position>
+        <Filename Value="uscanner.pas"/>
+        <Caret Line="74" Column="32" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="uraccoon.pas"/>
+        <Caret Line="71" Column="30" TopLine="71"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="uinterpreter.pas"/>
+        <Line Value="367"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="FTokens[FCurrent]"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
